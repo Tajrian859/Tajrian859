@@ -5,7 +5,7 @@
 <div align="center" style="margin:0; padding:0;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=140&section=header&text=Emamul%20Islam%20Nadid&fontSize=42&fontColor=c9d1d9&animation=none&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=140&section=header&text=Kazi%20Tajrian%20Mostafa&fontSize=42&fontColor=c9d1d9&animation=none&fontAlignY=35"
     width="100%"
     alt="Kazi Tajrian Mostafa header"
     style="margin:0; padding:0;"
